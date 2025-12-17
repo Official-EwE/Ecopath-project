@@ -1,6 +1,6 @@
 # Ecopath-project
 Issues and documentation for all EwE-related repos
 
-Definately NO CODE here!
+Definately NO CODE OR DATA here!
 
 [Ecopath Wiki page](https://github.com/Official-EwE/Ecopath-project/wiki)
